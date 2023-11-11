@@ -11,7 +11,7 @@ Presented by : Abdulrahman Almunaiee .
 هل تستطيع العبور و الوصول لخط النهاية ؟
 _
 
-![Dima2](https://github.com/Ahlamx6/Game-development-Microsoft-LSA/assets/102240641/6d02daf1-a3cd-4ec8-8ff4-a9c995760383)
+![Dima3](https://github.com/Ahlamx6/Game-development-Microsoft-LSA/assets/102240641/ee574294-8243-4199-8711-02fa34ce7c94)
 
 _
 
