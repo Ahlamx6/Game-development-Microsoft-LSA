@@ -1,9 +1,9 @@
 # Game-development-Microsoft-LSA
-Microsoft LSA Game Development Bootcamp Project Submission .
+Microsoft LSA Club
 
-The final project of the game development bootcamp , for 2 days. 
+The final project of the game development bootcamp Submission .  
 
-Presented by : Abdulrahman Almunaiee . 
+For 2 days, Presented by : Abdulrahman Almunaiee . 
 
 اسم اللعبة : DINA
 
