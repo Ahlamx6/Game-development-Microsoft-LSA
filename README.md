@@ -5,9 +5,9 @@ The final project of the game development bootcamp Submission .
 
 For 2 days, Presented by : Abdulrahman Almunaiee . 
 
-اسم اللعبة : DINA
+اسم اللعبة : DIMA
 
-في طريق DINA لجمع المجهورات الزرقاء تواجه بعض العقبات التي تسبب لها الضرر . 
+في طريق DIMA لجمع المجهورات الزرقاء تواجه بعض العقبات التي تسبب لها الضرر . 
 هل تستطيع العبور و الوصول لخط النهاية ؟
 _
 
